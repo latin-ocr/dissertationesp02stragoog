@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertationesp02stragoog_0120.png"; bbox 0 0 3244 4932; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 641 1895 951 1978">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 641 1895 951 1978">
+     <span class='ocr_line' id='line_1_1' title="bbox 641 1895 951 1978; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 641 1895 853 1978; x_wconf 77' lang='lat' dir='ltr'><strong>TABULA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 888 1895 951 1978; x_wconf 93' lang='grc' dir='ltr'>ΙΙΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 745 2259 848 2326">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 745 2259 848 2326">
+     <span class='ocr_line' id='line_1_2' title="bbox 745 2259 848 2326; baseline 0.01 -1"><span class='ocrx_word' id='word_1_3' title='bbox 745 2259 848 2326; x_wconf 79' lang='lat' dir='ltr'>DIES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 393 2505 1195 2582">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 393 2505 1195 2582">
+     <span class='ocr_line' id='line_1_3' title="bbox 393 2505 1195 2582; baseline 0.005 -4"><span class='ocrx_word' id='word_1_4' title='bbox 393 2505 649 2582; x_wconf 78' lang='lat' dir='ltr'>MENSIUM</span> <span class='ocrx_word' id='word_1_5' title='bbox 685 2507 754 2580; x_wconf 82' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_6' title='bbox 790 2507 1195 2582; x_wconf 76' lang='lat' dir='ltr'>PRY&#39;PANIARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 737 2764 856 2822">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 737 2764 856 2822">
+     <span class='ocr_line' id='line_1_4' title="bbox 737 2764 856 2822; baseline 0.008 -11"><span class='ocrx_word' id='word_1_7' title='bbox 737 2764 856 2822; x_wconf 83' lang='lat' dir='ltr'><strong>QUIBUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 455 2971 1130 3167">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 455 2971 1130 3167">
+     <span class='ocr_line' id='line_1_5' title="bbox 455 2971 1130 3026; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 455 2972 661 3026; x_wconf 76' lang='lat' dir='ltr'>CONTIONES</span> <span class='ocrx_word' id='word_1_9' title='bbox 680 2973 755 3026; x_wconf 79' lang='lat' dir='ltr'>AUT</span> <span class='ocrx_word' id='word_1_10' title='bbox 774 2971 938 3026; x_wconf 81' lang='lat' dir='ltr'>SENATUS</span> <span class='ocrx_word' id='word_1_11' title='bbox 957 2972 1130 3026; x_wconf 79' lang='lat' dir='ltr'>OONOILIA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 593 3113 989 3167; baseline 0 -1"><span class='ocrx_word' id='word_1_12' title='bbox 593 3114 733 3166; x_wconf 79' lang='lat' dir='ltr'>HABITA</span> <span class='ocrx_word' id='word_1_13' title='bbox 752 3113 989 3167; x_wconf 77' lang='lat' dir='ltr'><strong>TRADUNTUR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1626 4932">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1626 4932">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1626 4932; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1626 4932; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

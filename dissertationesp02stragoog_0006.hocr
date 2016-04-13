@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertationesp02stragoog_0006.png"; bbox 0 0 3258 4924; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 254 679 1503 816">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 254 679 1503 816">
+     <span class='ocr_line' id='line_1_1' title="bbox 254 679 1503 816; baseline 0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 254 682 864 814; x_wconf 77' lang='lat' dir='ltr'>DISSERTATIONES</span> <span class='ocrx_word' id='word_1_2' title='bbox 919 679 1503 816; x_wconf 76' lang='lat' dir='ltr'><strong>PHILOLOGIOAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 265 864 296 902">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 265 864 296 902">
+     <span class='ocr_line' id='line_1_2' title="bbox 265 864 296 902; baseline 0 -10"><span class='ocrx_word' id='word_1_3' title='bbox 265 864 296 902; x_wconf 65' lang='grc' dir='ltr'>ζ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 493 1269 1217 1383">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 493 1269 1217 1383">
+     <span class='ocr_line' id='line_1_3' title="bbox 493 1269 1217 1383; baseline 0.007 -5"><span class='ocrx_word' id='word_1_4' title='bbox 493 1269 1217 1383; x_wconf 79' lang='lat' dir='ltr'><strong>ARGENTORATENSES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 716 1821 993 1896">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 716 1821 993 1896">
+     <span class='ocr_line' id='line_1_4' title="bbox 716 1821 993 1896; baseline -0.007 0"><span class='ocrx_word' id='word_1_5' title='bbox 716 1821 993 1896; x_wconf 81' lang='lat' dir='ltr'>SELECTAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 640 2761 1065 2844">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 640 2761 1065 2844">
+     <span class='ocr_line' id='line_1_5' title="bbox 640 2761 1065 2844; baseline 0.007 -4"><span class='ocrx_word' id='word_1_6' title='bbox 640 2761 953 2844; x_wconf 79' lang='lat' dir='ltr'><strong>VOLVMEN</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1001 2761 1065 2844; x_wconf 92' lang='lat' dir='ltr'><strong>lll.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1634 4924">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1634 4924">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1634 4924; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1634 4924; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
